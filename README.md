@@ -9,6 +9,3 @@ Experienced in architecting high-throughput data pipelines, real-time event stre
   - **Streaming & Storage:** Apache Kafka, ClickHouse, Delta Lake, PostgreSQL
   - **Cloud & DevOps:** Terraform, Docker, AWS, Azure
 - 🎯 **Target:** Building resilient, automated, and low-latency data platforms for enterprise analytics.
-
-### 🏆 Credly Badges & Certifications
-[![Credly Badges](https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/dhiwa-kosittirachart/badges)
